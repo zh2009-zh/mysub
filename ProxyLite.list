@@ -1,7 +1,9 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,ww4.harry1208.buzz
+DOMAIN-SUFFIX,ww6.harry1208.buzz
+DOMAIN-SUFFIX,zhcn.harry1208.buzz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -9,6 +11,9 @@ DOMAIN-KEYWORD,1e100
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
+
+IP-CIDR,24.141.122.144/32,no-resolve
+
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
